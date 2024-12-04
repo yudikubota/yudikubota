@@ -11,7 +11,9 @@ I'm always looking for something new to learn 📚 and I'm currently focused on 
 
 ---
 
-🔭 I’m currently working at [**Khiza DAO**](https://khizadao.com)
+🔭 I’m currently working as founder of [**AnyFlow**](https://anyflow.pro/)
+
+🔭 I'm part of [**Khiza DAO**](https://khizadao.com)
 
 🌱 I’m currently learning **Economics and history of money**
 
@@ -21,7 +23,7 @@ I'm always looking for something new to learn 📚 and I'm currently focused on 
 
 📄 Know about my experiences at [**LinkedIn**](https://www.linkedin.com/in/yudi-kubota/)
 
-⚡ **Fun Fact:** I'm also a music producer and DJ. I love to play and produce trance music. ([check it](https://music.yudikubota.com))
+⚡ **Fun Fact:** I'm also a music producer and DJ. I love to produce and play trance music. ([check it](https://music.yudikubota.com))
 
 🧠 **What am I doing?** [Check it out](https://yudikubota.notion.site/O-que-estou-fazendo-85cfa964582b4b8c97b29eb461224e22)
 
@@ -29,6 +31,7 @@ I'm always looking for something new to learn 📚 and I'm currently focused on 
 <p align="left">
 <a href="https://twitter.com/yudi_kubota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yudi_kubota" height="30" width="40" /></a>
 <a href="https://instagram.com/yudi_kubota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yudi_kubota" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yudi-kubota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yudi-kubota" height="30" width="40" /></a>
 </p>
 
 ## 💻 Tech Stack
@@ -60,15 +63,13 @@ I'm always looking for something new to learn 📚 and I'm currently focused on 
 
  ### 👉 Concepts
 
-### Smart Contracts
+### Web3
 
-- Smart contracts development on EVM Blockchains
+- Smart contract development on EVM Blockchains
 - NFTs
 - Token standards: ERC20, ERC721 & ERC1155 Token
-- Thirdweb
-- Alchemy & Infura Node Providers
-- IPFS, Pinata
-- Reservoir
+- RPC Node Providers
+- IPFS
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=yudi_kubota)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
